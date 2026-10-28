@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841553308949",
+    "project_id": "fairshare-cf56c",
+    "storage_bucket": "fairshare-cf56c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841553308949:android:5e5eb49b2333f0b0778d1c",
+        "android_client_info": {
+          "package_name": "com.example.fairshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgyHeBBqM2Ow2u-RRI9z9A_Cz8LIBpALQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
