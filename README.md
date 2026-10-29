@@ -24,7 +24,7 @@ A mobile app for splitting shared expenses with friends and keeping track of who
 
 ## What it does
 
-- **Sign up and log in** with Firebase Authentication. Each user only sees their own data.
+- **Sign up and log in to your account** with Firebase Authentication. Each user only sees their own data.
 - **Add expenses and split them equally** between any people you name. You choose who paid and who shares the cost.
 - **See balances per person.** The app works out who owes you and who you owe, based on all your shared expenses.
 - **Settle up** with one tap. A payment is recorded and the balance goes back to zero, with an **Undo** option.
