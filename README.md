@@ -3,6 +3,7 @@
 A mobile app for splitting shared expenses with friends and keeping track of who owes whom. Built with **Flutter**, **Firebase Authentication** and **Cloud Firestore**.
 
 > Elective project: Mobile Development (WeThinkCode_), Semester 3, 2026.
+>verification code:WTC-NL4Y96YP
 > Demo video: **[ADD YOUR UNLISTED YOUTUBE LINK HERE]**
 
 ---
