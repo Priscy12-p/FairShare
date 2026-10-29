@@ -34,6 +34,8 @@ dependencies:
 
   # Connects our app to Firebase services.
   firebase_core: ^5.1.0
+  firebase_auth: ^7.0.1
+  cloud_firestore: ^7.1.0
 # --------------------------------------------------
 # DEVELOPMENT DEPENDENCIES
 # Packages used for testing and code quality.
